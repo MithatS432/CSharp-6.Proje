@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Operatörler2\Operatörler2\bin\Debug\Operatörler2.exe.config
+C:\Users\mitha\source\repos\Operatörler2\Operatörler2\bin\Debug\Operatörler2.exe
+C:\Users\mitha\source\repos\Operatörler2\Operatörler2\bin\Debug\Operatörler2.pdb
+C:\Users\mitha\source\repos\Operatörler2\Operatörler2\obj\Debug\Operatörler2.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Operatörler2\Operatörler2\obj\Debug\Operatörler2.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Operatörler2\Operatörler2\obj\Debug\Operatörler2.exe
+C:\Users\mitha\source\repos\Operatörler2\Operatörler2\obj\Debug\Operatörler2.pdb
