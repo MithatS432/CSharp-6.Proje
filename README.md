@@ -1,2 +1,2 @@
-# CSharp-6.Proje
+# C#-6.Proje
 Operatörler2
